@@ -1,4 +1,4 @@
-Images
+
 ![icon_bath](https://user-images.githubusercontent.com/111288660/220112015-968d4ea1-414e-4255-9c3a-67fba97b2d2f.png)
 ![icon_bed](https://user-images.githubusercontent.com/111288660/220112024-993b43f4-df4e-415c-923d-a141f38247d9.png)
 ![icon_group](https://user-images.githubusercontent.com/111288660/220112027-0244d191-3cc7-4e02-9105-870a3e6a1d6b.png)
